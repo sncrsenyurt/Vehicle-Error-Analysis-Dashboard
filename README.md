@@ -1,5 +1,7 @@
 # Vehicle Error Analysis Dashboard
 
+https://zooxvehicle.streamlit.app/
+
 This project is an interactive Streamlit dashboard for analyzing vehicle errors over time. The dashboard allows users to filter data based on vehicle numbers, error codes, date ranges, and time periods (daily, weekly, monthly, yearly) and visualize the error data through various charts and visualizations.
 
 ## Features
